@@ -1,0 +1,26 @@
+package p23;
+
+import java.util.Scanner;
+
+public class Grade {
+
+	public static void main(String[] args) {
+		System.out.println("점수를 입력해주세요");
+		Scanner gd = new Scanner(System.in);
+		int grade = gd.nextInt();
+		
+		if(grade >= 90) {  //90보다 크거나 같을때
+			System.out.println("A");
+		}else if(grade >= 80){ //80보다 크거나 같을때
+			System.out.println("B");
+		}else if(grade >= 70){ //70보다 크거나 같을때
+			System.out.println("C");
+		}else if(grade > 60){ //60보다 크거나 같을때
+			System.out.println("D");
+		}else {
+			System.out.println("f");
+		}
+
+	}
+
+}

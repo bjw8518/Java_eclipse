@@ -1,0 +1,10 @@
+
+public class Java3_If {
+
+	public static void main(String[] args) {
+		int a = 10; //선언만 하고 사용을안함
+		System.out.println("1");
+
+	}
+
+}

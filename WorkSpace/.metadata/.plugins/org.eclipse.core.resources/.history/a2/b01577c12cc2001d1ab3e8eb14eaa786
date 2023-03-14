@@ -1,0 +1,31 @@
+
+public class loop {
+
+	public static void main(String[] args) {
+		
+//		for(int a=0; a <100; a++) {
+//			System.out.println(a+"번쨰");
+//			System.out.println(a+1);
+//		}
+		int sumsum =0;
+		for(int i = 0;i < 100;i++) {
+			sumsum = sumsum + (i+1);
+			//1 <= 0 + 1;
+			//3 <= 1 + 2;
+			//
+		}
+		System.out.println(sumsum);
+		
+		int sum1 = 0;
+		for(int a=0;a<1000;a++) {
+			sum1 = sum1 + a;//1부터 100까지의 숫자를 1씩증가하면서 반복
+		}//
+		System.out.println(sum1);
+	}
+	
+	// sum = sum + a[0] = 0+1 = 1
+	// sum = sum + a[1] = 1+2 = 3
+	// sum = sum + a[2] = 1+2 = 3
+	int zsum =0;
+
+}

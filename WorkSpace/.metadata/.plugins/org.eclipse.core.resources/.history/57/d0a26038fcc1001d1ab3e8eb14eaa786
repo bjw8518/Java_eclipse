@@ -1,0 +1,17 @@
+package p23;
+
+public class ExClass {
+
+	public static void main(String[] args) {
+		int a;
+		a = 10;
+		
+		double b = 12.3;
+		
+		String c = "안녕";
+		
+		
+
+	}
+
+}
