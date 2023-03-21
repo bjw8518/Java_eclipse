@@ -1,9 +1,0 @@
-
-public class RSP {
-
-	public static void main(String[] args) {
-		System.out.println("가위바위보 게임입니다 \n원하는 숫자를 입력하세요 \n가위:0 바위:1 보:2");
-
-	}
-
-}
