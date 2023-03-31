@@ -13,7 +13,7 @@ public class fac2_jagi {
 
 	public static void main(String[] args) {
 		
-		System.out.println("10팩토리얼은"+factorial(10));
+		System.out.println(factorial(5));
 
 	}
 
