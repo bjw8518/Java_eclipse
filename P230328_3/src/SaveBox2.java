@@ -2,8 +2,19 @@ import java.util.Scanner;
 
 public class SaveBox2 {
 	int coin =0; //프로퍼티 쓸때는 this 필수
+	int coins=0;
 	String name = "돼지";
 	boolean isBroken = false;
+	
+	public void sabbing() {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println(this.name + "새로운 저금통에 넣을금액");
+		String inputString = scanner.nextLine();
+		int nwinputCoin = Integer.parseInt(inputString);
+		this.coins = this.coins + nwinputCoin;
+		System.out.println("지금돈"+this.coins+"입니다");
+		
+	}
 	
 	public void deposit() { //메소드
 		if(this.isBroken) {
