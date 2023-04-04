@@ -25,6 +25,7 @@ public class MainClass2 {
 		System.out.println("[6] 3번 저금통에 출금");
 		System.out.println("[7] 저금통 생성");
 		System.out.println("[Q] Q누를 시 종료");
+		System.out.println("test입니다");
 		
 		String inputMenu = scanner.nextLine();
 		
