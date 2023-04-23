@@ -9,7 +9,6 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         int Nu = scanner.nextInt();
-
         int[] arr = new int[Nu];
         for (int i = 0; i < arr.length; i++) {
             arr[i] = scanner.nextInt();
