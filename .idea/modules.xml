@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/for_Practice/Array_Practice.iml" filepath="$PROJECT_DIR$/for_Practice/Array_Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/HWY_01/HWY_01.iml" filepath="$PROJECT_DIR$/HWY_01/HWY_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/P230418/P230418.iml" filepath="$PROJECT_DIR$/P230418/P230418.iml" />
       <module fileurl="file://$PROJECT_DIR$/P230418_1/P230418_1.iml" filepath="$PROJECT_DIR$/P230418_1/P230418_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/P230418_2/P230418_2.iml" filepath="$PROJECT_DIR$/P230418_2/P230418_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project_1/Project_1.iml" filepath="$PROJECT_DIR$/Project_1/Project_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/life/life.iml" filepath="$PROJECT_DIR$/life/life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cote_230424/cote_230424.iml" filepath="$PROJECT_DIR$/cote_230424/cote_230424.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
