@@ -3,17 +3,27 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/for_Practice/Array_Practice.iml" filepath="$PROJECT_DIR$/for_Practice/Array_Practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HWY_01/HWY_01.iml" filepath="$PROJECT_DIR$/HWY_01/HWY_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P230418/P230418.iml" filepath="$PROJECT_DIR$/P230418/P230418.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P230418_1/P230418_1.iml" filepath="$PROJECT_DIR$/P230418_1/P230418_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P230418_2/P230418_2.iml" filepath="$PROJECT_DIR$/P230418_2/P230418_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P230425/P230425.iml" filepath="$PROJECT_DIR$/P230425/P230425.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P230425_1/P230425_1.iml" filepath="$PROJECT_DIR$/P230425_1/P230425_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P230425_2/P230425_2.iml" filepath="$PROJECT_DIR$/P230425_2/P230425_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Project/Project.iml" filepath="$PROJECT_DIR$/Project/Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Project_1/Project_1.iml" filepath="$PROJECT_DIR$/Project_1/Project_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassRoom/ClassRoom.iml" filepath="$PROJECT_DIR$/ClassRoom/ClassRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJECT_d_a_d/PROJECT_d_a_d.iml" filepath="$PROJECT_DIR$/PROJECT_d_a_d/PROJECT_d_a_d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJECT_dungeons_and_dragons/PROJECT_dungeons_and_dragons.iml" filepath="$PROJECT_DIR$/PROJECT_dungeons_and_dragons/PROJECT_dungeons_and_dragons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROJECT_student_management/PROJECT_student_management.iml" filepath="$PROJECT_DIR$/PROJECT_student_management/PROJECT_student_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230307/P_230307.iml" filepath="$PROJECT_DIR$/P_230307/P_230307.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230314/P_230314.iml" filepath="$PROJECT_DIR$/P_230314/P_230314.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230321/P_230321.iml" filepath="$PROJECT_DIR$/P_230321/P_230321.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230328/P_230328.iml" filepath="$PROJECT_DIR$/P_230328/P_230328.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230328_SaveBox/P_230328_SaveBox.iml" filepath="$PROJECT_DIR$/P_230328_SaveBox/P_230328_SaveBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230411/P_230411.iml" filepath="$PROJECT_DIR$/P_230411/P_230411.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230411_student_management/P_230411_student_management.iml" filepath="$PROJECT_DIR$/P_230411_student_management/P_230411_student_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230418_1_inheritance/P_230418_1_inheritance.iml" filepath="$PROJECT_DIR$/P_230418_1_inheritance/P_230418_1_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230418_2_Figure/P_230418_2_Figure.iml" filepath="$PROJECT_DIR$/P_230418_2_Figure/P_230418_2_Figure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230418_inheritance/P_230418_inheritance.iml" filepath="$PROJECT_DIR$/P_230418_inheritance/P_230418_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230425_1_Figure/P_230425_1_Figure.iml" filepath="$PROJECT_DIR$/P_230425_1_Figure/P_230425_1_Figure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230425_2_interface/P_230425_2_interface.iml" filepath="$PROJECT_DIR$/P_230425_2_interface/P_230425_2_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P_230425_Figure/P_230425_Figure.iml" filepath="$PROJECT_DIR$/P_230425_Figure/P_230425_Figure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cote_230320/cote_230320.iml" filepath="$PROJECT_DIR$/cote_230320/cote_230320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cote_230327/cote_230327.iml" filepath="$PROJECT_DIR$/cote_230327/cote_230327.iml" />
       <module fileurl="file://$PROJECT_DIR$/cote_230424/cote_230424.iml" filepath="$PROJECT_DIR$/cote_230424/cote_230424.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rock_scissor_paper/rock_scissor_paper.iml" filepath="$PROJECT_DIR$/rock_scissor_paper/rock_scissor_paper.iml" />
     </modules>
   </component>
 </project>
