@@ -1,5 +1,20 @@
+import java.util.Scanner;
 
 public class ProductList {
+    public void modProduct(Product[] product) {
+        for (int j = 0; j < product.length; j++) {
+            System.out.println("" + j + " : " + product[j]);
+        }
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("수정을 원하는 상품 번호");
+        String inputString = scanner.nextLine();
+        int inputNumber = Integer.parseInt(inputString);
+        System.out.println("현재 재고 : " + product[inputNumber].quantity);
+        System.out.println("수정할 재고 갯수 : ");
+        inputString = scanner.nextLine();
+        product[inputNumber].quantity = Integer.parseInt(inputString);
+    }
+
     public void statistics(Product[] product) {
         System.out.println("총 상품 갯수 : " + product.length);
         int priceTotal = 0;

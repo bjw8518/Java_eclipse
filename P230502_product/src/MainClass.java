@@ -32,6 +32,8 @@ public class MainClass {
             System.out.println("5. 통계");
             System.out.println("6. 주문");
             System.out.println("7. 주문 목록 출력");
+            System.out.println("8. 상품 수정 (재고 수정)");
+            System.out.println("9. 주문 수정 (배송정보 수정)");
             System.out.println("q. 종료");
             String selectMenu = scanner.nextLine();
             if (selectMenu.equals("q")) {
@@ -52,6 +54,10 @@ public class MainClass {
                 orderIndex++;
             } else if (selectMenu.equals("7")) {
                 orderList.showList(order);
+            } else if (selectMenu.equals("8")) {
+                productList.modProduct(product);
+            } else if (selectMenu.equals("9")) {
+                orderList.modOrder(order);
             }
         }
     }
