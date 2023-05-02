@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/for_Practice/Array_Practice.iml" filepath="$PROJECT_DIR$/for_Practice/Array_Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassRoom/ClassRoom.iml" filepath="$PROJECT_DIR$/ClassRoom/ClassRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P230502_product/P230502_product.iml" filepath="$PROJECT_DIR$/P230502_product/P230502_product.iml" />
       <module fileurl="file://$PROJECT_DIR$/PROJECT_d_a_d/PROJECT_d_a_d.iml" filepath="$PROJECT_DIR$/PROJECT_d_a_d/PROJECT_d_a_d.iml" />
       <module fileurl="file://$PROJECT_DIR$/PROJECT_dungeons_and_dragons/PROJECT_dungeons_and_dragons.iml" filepath="$PROJECT_DIR$/PROJECT_dungeons_and_dragons/PROJECT_dungeons_and_dragons.iml" />
       <module fileurl="file://$PROJECT_DIR$/PROJECT_student_management/PROJECT_student_management.iml" filepath="$PROJECT_DIR$/PROJECT_student_management/PROJECT_student_management.iml" />
@@ -25,6 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/cote_230424/cote_230424.iml" filepath="$PROJECT_DIR$/cote_230424/cote_230424.iml" />
       <module fileurl="file://$PROJECT_DIR$/importantttttttttt/importantttttttttt.iml" filepath="$PROJECT_DIR$/importantttttttttt/importantttttttttt.iml" />
       <module fileurl="file://$PROJECT_DIR$/rock_scissor_paper/rock_scissor_paper.iml" filepath="$PROJECT_DIR$/rock_scissor_paper/rock_scissor_paper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop/shop.iml" filepath="$PROJECT_DIR$/shop/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop2/shop2.iml" filepath="$PROJECT_DIR$/shop2/shop2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/std_mana/std_mana.iml" filepath="$PROJECT_DIR$/std_mana/std_mana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studenttttt_manager/studenttttt_manager.iml" filepath="$PROJECT_DIR$/studenttttt_manager/studenttttt_manager.iml" />
     </modules>
   </component>
 </project>
