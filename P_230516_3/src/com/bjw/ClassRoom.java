@@ -1,22 +1,21 @@
 package com.bjw;
 
-import com.sun.deploy.net.MessageHeader;
-
 import java.util.ArrayList;
 
 public class ClassRoom {
-    public String name;
-    public MessageHeader students;
-    ArrayList<Student> Students = new ArrayList<Student>();
+    String name;
+    ArrayList<Student> students = new ArrayList<Student>();
 
-    ClassRoom(){
+    ClassRoom() {
 
     }
-    ClassRoom(String name){
-        this.name=name;
+
+    ClassRoom(String name) {
+        this.name = name;
     }
+
     @Override
-    public String toString(){
-        return name+" (" + this.students.size() + "명)";
+    public String toString() {
+        return this.name + " (" + this.students.size() + "명)";
     }
 }
