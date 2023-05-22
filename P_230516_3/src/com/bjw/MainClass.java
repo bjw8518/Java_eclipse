@@ -1,3 +1,4 @@
+//통계기능 추가해줘
 package com.bjw;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,7 +8,6 @@ import java.util.Scanner;
 
 public class MainClass {
     public static void main(String[] args) {
-        // 수동 데이터
         Student[] student = {
                 new Student("홍길동",100),
                 new Student("둘리",10),
