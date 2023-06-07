@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Base {
 
     protected String characterInfo;
-    // 하부 진행 간 주사위를 던질 때마다 2초씩 딜레이하도록 기능 추가하겠습니다.
     int hp;
     int power;
     String name;
@@ -26,8 +25,6 @@ public class Base {
     DiceModule dm = new DiceModule();
     Random random = new Random();
 
-    // 기술 선택창. 각 클래스에서 @Override 받아 특성별로 입력해주세요.
-    // 해당 Method를 통해 공격 데미지를 설정합니다.
     public void attackMethod() {
         System.out.println();
         System.out.println("공격 기술을 선택해주세요.");
@@ -86,8 +83,6 @@ public class Base {
         } else {
             System.out.println(this.name + " 이/가 " + "10면체 주사위를 굴립니다.");
             System.out.println();
-            // @Override해서 각 클래스 친구들이 적으로 등장했을 때
-            // 데미지를 결정할 기술과, 데미지 산식을 적용해주세요.
 
             try {
                 Thread.sleep(1000);

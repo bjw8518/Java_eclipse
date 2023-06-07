@@ -43,7 +43,6 @@ public class Player03 extends Base {
             int diceTen = dm.diceTen();
             this.attackpower = diceTen;
             System.out.println(diceTen + " 이/가 나왔습니다.");
-            // 일반공격 선택 시 10면체 주사위를 굴린 값을 공격 데미지로 저장합니다.
 
         } else if (attackSkill.equals("1")) {
             if(this.pp > 0) {

@@ -37,8 +37,7 @@ public class MainPlay {
             System.out.println();
             System.out.println("[" + (i + 1) + " 라운드]");
 
-//				userCount가 0이 아닌 최종 인원을 승자로 선정합니다.
-//				isLive가 false가 될 때, userCount가 1에서 0이 되므로
+
 //				모든 플레이어의 userCount 합산값이 1일 때, 오롯이 1을 지닌 캐릭터가 승자로 결정됩니다.
 //				이 때 userCount 1값을 지닌 캐릭터의 이름을 출력하고, 게임을 종료합니다.
             if (base[0].userCount + base[1].userCount + base[2].userCount + base[3].userCount
@@ -87,8 +86,6 @@ public class MainPlay {
                     continue;
                 }
 
-// 					현재 로직은 0번부터 4번까지 순차 진행이 이뤄집니다.
-// 					선공권 로직, 집어넣겠습니다.
 
                 // 플레이어블 시 doAction을, 적 캐릭터는 doAuto를 적용합니다.
                 // doAction은 대상과 기술 선정을 플레이어로부터 입력받으며,
